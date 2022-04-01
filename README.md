@@ -1,8 +1,8 @@
 # Bounties
 
-- Added Getting started page
-- Added Create a Deal page
-- Added Claim a Deal
-- Added Execute a Deal
-- Deleted default pages
-- Published
+- [X] Added Getting started page
+- [X] Deleted default pages
+- [X] Published
+- [ ] Added Create a Deal page
+- [ ] Added Claim a Deal
+- [ ] Added Execute a Deal
