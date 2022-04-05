@@ -1,8 +1,15 @@
 # Bounties
 
-- [X] Added Getting started page
-- [X] Deleted default pages
-- [X] Published
-- [ ] Added Create a Deal page
-- [ ] Added Claim a Deal
-- [ ] Added Execute a Deal
+## Gitbook
+
+- [X] Set Up Gitbook
+- [X] Getting Started Page
+- [X] Create a Deal Page
+- [X] Claim a Deal Page
+- [ ] Challenge a Deal
+- [X] Execute a Deal
+- [ ] Refund a Deal
+
+## Dune Analytics
+
+- [ ] Whitelist Feature Smart Contract
