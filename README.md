@@ -9,7 +9,7 @@
 - [X] Claim a Deal Page
 - [ ] Challenge a Deal
 - [X] Execute a Deal
-- [ ] Refund a Deal
+- [x] Refund a Deal
 
 ## Dune Analytics
 
