@@ -1,7 +1,8 @@
 name: Projects CI
 
 on:
-  issues: opened
+  issues: 
+    types: opened
     
 
   # Allows you to run this workflow manually from the Actions tab
