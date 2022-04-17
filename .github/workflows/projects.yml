@@ -2,7 +2,7 @@ name: Projects CI
 
 on:
   issues: 
-    types: opened
+    types: [opened, reopened]
     
 
   # Allows you to run this workflow manually from the Actions tab
