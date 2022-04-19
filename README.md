@@ -14,3 +14,7 @@
 ## Dune Analytics
 
 - [ ] Whitelist Feature Smart Contract
+
+## CI
+
+- [x] Add new issues to GitHub projects beta
