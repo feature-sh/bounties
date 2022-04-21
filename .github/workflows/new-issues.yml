@@ -28,4 +28,3 @@ jobs:
           --url ${{ github.event.issue.url }} \
           --header 'authorization: token ${{ secrets.GITHUB_TOKEN }}' \
           --data '{"milestone": 2}'
-          
