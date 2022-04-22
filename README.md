@@ -7,7 +7,7 @@
 - [X] Add Feature bot intallation tutorial
 - [X] Create a Deal Page
 - [X] Claim a Deal Page
-- [ ] Challenge a Deal
+- [x] Challenge a Deal
 - [X] Execute a Deal
 - [x] Refund a Deal
 
