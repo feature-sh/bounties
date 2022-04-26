@@ -10,6 +10,7 @@
 - [x] Challenge a Deal
 - [X] Execute a Deal
 - [x] Refund a Deal
+- [x] Add readme to describe the organization
 
 ## Dune Analytics
 
