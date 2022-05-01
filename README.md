@@ -10,7 +10,6 @@
 - [x] Challenge a Deal
 - [X] Execute a Deal
 - [x] Refund a Deal
-- [x] Add readme to describe the organization
 
 ## Dune Analytics
 
@@ -19,3 +18,8 @@
 ## CI
 
 - [x] Add new issues to GitHub projects beta
+
+## Branding
+
+- [x] Add readme to describe the organization
+- [x] Submit project to Changelog News
