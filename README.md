@@ -19,3 +19,4 @@
 ## CI
 
 - [x] Add new issues to GitHub projects beta
+- [x] Create new milestones (sprint) every 2 weeks
